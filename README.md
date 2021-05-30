@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Shreyansh Agarwal, an undergraduate at IIT Kanpur (Y20).
+- 👀 I’m interested in designing and exploring the physics which universe follows.
+- 🌱 I’m currently learning programming languages and digital art.
+- 💞️ I’m looking to collaborate on my summer project - computational astrophysics.
+- 📫 Email: shreyansha20@iitk.ac.in
+- 📞 Phone: 9044975252
