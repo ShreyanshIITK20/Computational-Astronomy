@@ -1,0 +1,1 @@
+Hi! This is my Astrophysical project offered by Astronomy club of IIT Kanpur. It mainly deals with complex astrophysical equations and their manipulation using computational method, namely Python programming language.
